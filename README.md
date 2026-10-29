@@ -2,7 +2,7 @@
 <div>
 -👀 I’m interested in ...data analist <br>
 -🌱 I’m currently learning ...java and python <br>
--💞️ I’m looking to collaborate on ... Qik-IA and DevIAthon <br>
+-💞️ I’m looking to organizer on ... DevIAthon <br>
 -📫 How to reach me ...Edidon López en Linkedin </div>
 
 
